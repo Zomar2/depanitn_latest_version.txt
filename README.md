@@ -1,0 +1,1 @@
+# depanitn_latest_version.txt
